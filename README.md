@@ -18,15 +18,13 @@ This project provides a sleek **Login & Registration interface** that can be eas
 ✅ Lightweight (no external frameworks)  
 
 ## 📂 Project Structure
+```
 Auth-Form-UI/
-
 ├── index.html # Main authentication UI
-
 ├── style.css # Styles for UI components
-
 ├── script.js # JavaScript form logic
-
-├── background.jpg # Background image 
+├── background.jpg # Background image
+```
 
 ## 🛠️ Technologies Used
 
